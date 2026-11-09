@@ -36,5 +36,6 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "chat.sessionSync.enabled": true
 }
